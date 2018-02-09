@@ -1,5 +1,5 @@
 FROM java:8-alpine
-MAINTAINER Your Name <juanvazquez@gmail.com>
+MAINTAINER Juan Vazquez <juanvazquez@gmail.com>
 
 ADD target/uberjar/web-enigma.jar /web-enigma/app.jar
 
