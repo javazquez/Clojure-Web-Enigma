@@ -30,6 +30,8 @@ To start figwheel, run:
 ## Docker 
 
     docker pull javazquez/clojure-web-enigma
+    
+    docker run -p 3000:3000 javazquez/clojure-web-enigma
 
 ## List of resources consulted
 
