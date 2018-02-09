@@ -27,7 +27,9 @@ To start figwheel, run:
 
     lein figwheel
 
+## Docker 
 
+    docker pull javazquez/clojure-web-enigma
 
 ## List of resources consulted
 
